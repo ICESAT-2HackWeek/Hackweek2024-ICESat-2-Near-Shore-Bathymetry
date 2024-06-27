@@ -70,8 +70,9 @@ The Multiple Altimeter Beam Experimental Lidar (MABEL), an airborne simulator fo
 https://github.com/ICESAT-2HackWeek/ICESat-2-Hackweek-2023/tree/main/book/tutorials/bathymetry<br />
 https://github.com/ICESAT-2HackWeek/ICESat-2-Hackweek-2023/tree/main/book/tutorials/DataVisualization
 
-### Good to Know
-How to Execute Jupyter Notebooks from GitHub: https://soshnikov.com/education/how-to-execute-notebooks-from-github/ 
+### Important to Know
+How to Execute Jupyter Notebooks from GitHub: https://soshnikov.com/education/how-to-execute-notebooks-from-github/<br />
+Google Colaboratory is a research tool for machine learning education and research. It’s a Jupyter notebook environment that requires no setup to use: https://github.com/googlecolab/colabtools<br />  
 
 
 
