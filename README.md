@@ -30,7 +30,11 @@ Here is the list of people who contributed to this project.
 About ICESat-2: https://icesat-2.gsfc.nasa.gov/  
 ICESat-2 Algorithm Theoretical Basis Document for Global Geolocated Photons (ATL03):<br /> 
 https://icesat-2.gsfc.nasa.gov/sites/default/files/page_files/ICESat2_ATL03_ATBD_r006.pdf<br />
-ICESat-2 Photon Confidence Measure Using NASA GSFC YAPC ("Yet Another Photon Classifier") Algorithm: https://github.com/tsutterley/yapc 
+ICESat-2 Photon Classification Using NASA GSFC YAPC ("Yet Another Photon Classifier") Algorithm: https://github.com/tsutterley/yapc<br />
+<br />
+YAPC Overview<br />
+https://yapc.readthedocs.io/en/latest/getting_started/Overview.html<br />
+YAPC is a prototype photon classifer for the NASA ICESat-2 ATL03 Global Geolocated Photon product. It was developed by Jeff Lee (GSFC) with the goal of supporting and simplifying science applications for the NASA Ice Cloud and land Elevation Satellite-2 (ICESat-2).
 
 
 #### What Is SlideRule?<br />https://slideruleearth.io/<br />https://github.com/SlideRuleEarth<br />
