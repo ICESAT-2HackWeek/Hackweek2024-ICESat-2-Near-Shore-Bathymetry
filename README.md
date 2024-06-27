@@ -43,10 +43,8 @@ https://joss.theoj.org/papers/10.21105/joss.04982
 ## References
 
 * **`notebooks/`**
-<br> Please refer to the following tutorial from Hackweek 2023:
-
-https://github.com/ICESAT-2HackWeek/ICESat-2-Hackweek-2023/tree/main/book/tutorials/bathymetry
-
+<br> Please refer to the following tutorial from Hackweek 2023:<br />
+https://github.com/ICESAT-2HackWeek/ICESat-2-Hackweek-2023/tree/main/book/tutorials/bathymetry<br />
 https://github.com/ICESAT-2HackWeek/ICESat-2-Hackweek-2023/tree/main/book/tutorials/DataVisualization
 
 
