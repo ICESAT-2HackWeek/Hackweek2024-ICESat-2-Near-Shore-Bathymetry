@@ -2,6 +2,9 @@
 
 In this project we would like to combine time-series of ICESat-2 observations to create a near continuous (depending on the number and quality of the available ICESat-2 passes) near-shore bathymetry map.  
 
+## Collaborators
+
+Here is the list of people who contributed to this project.
 
 ## References
 
@@ -12,29 +15,6 @@ https://github.com/ICESAT-2HackWeek/ICESat-2-Hackweek-2023/tree/main/book/tutori
 
 https://github.com/ICESAT-2HackWeek/ICESat-2-Hackweek-2023/tree/main/book/tutorials/DataVisualization
 
-
-# Recommended content for your README.md file:
-
-(you can remove the content here and above from your final project README.md file so that it begins with the Project or Team Name title below)
-
-# Project or Team Name
-
-## Project Title and Introduction
-
-Provide a brief introduction describing the proposed work. Be sure to also decribe what skills team members will get to learn and practice as part of this project.
-
-### Collaborators
-
-List all participants on the project. Here is a good space to share your personal goals for the hackweek and things you can help with.
-
-| Name | Personal goals | Can help with | Role |
-| ------------- | ------------- | ------------- | ------------- |
-| Katherine J. | I want to learn specific python libraries for working with these data  | I can help with understanding our dataset, programming in R  | Project Lead |
-| Rosalind F. | Practice leading a software project | machine learning and python (scipy, scikit-learn) | Project Lead |
-| Alan T. | learning about your dataset | GitHub, Jupyter, cloud computing | Project Helper |
-| Rachel C. | learn to use github, resolve merge conflicts | I am familiar with our dataset | Team Member  |
-| ... | ... | ... | ... |
-| ... | ... | ... | ... |
 
 ### The problem
 
