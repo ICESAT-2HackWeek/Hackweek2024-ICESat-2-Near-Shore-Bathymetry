@@ -33,9 +33,10 @@ https://icesat-2.gsfc.nasa.gov/sites/default/files/page_files/ICESat2_ATL03_ATBD
 ICESat-2 Photon Classification Using NASA GSFC YAPC ("Yet Another Photon Classifier") Algorithm: https://github.com/tsutterley/yapc<br />
 <br />
 YAPC Overview<br />
+<p align="justify">
 https://yapc.readthedocs.io/en/latest/getting_started/Overview.html<br />
 YAPC is a prototype photon classifer for the NASA ICESat-2 ATL03 Global Geolocated Photon product. It was developed by Jeff Lee (GSFC) with the goal of supporting and simplifying science applications for the ICESat-2. It is a customized inverse-distance kNN algorithm developed to determine the significance (or weight) of individual photon events. The weight of each photon is indicative of localized density based on it surrounding K neighbors and the inverse distances.
-<br />
+</p><br />
 
 What Is SlideRule?<br />https://slideruleearth.io/<br />https://github.com/SlideRuleEarth<br />
 <p align="justify">
