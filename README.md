@@ -50,9 +50,11 @@ SlideRule is a public web service with REST APIs for processing science data and
 
 ### Literature
 SlideRule: Enabling rapid, scalable, open science for the NASA ICESat-2 mission and beyond: https://joss.theoj.org/papers/10.21105/joss.04982
-$~$<br />$~$
+$~$<br />
+
 A Framework for Automated Supraglacial Lake Detection and Depth Retrieval in ICESat-2 Photon Data Across the Greenland and Antarctic Ice Sheets: https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1156/egusphere-2024-1156.pdf 
 $~$<br />
+
 For refraction correction of bottom return photons: Validation of ICESat-2 ATLAS Bathymetry and Analysis of ATLAS’s Bathymetric Mapping Performance: https://www.mdpi.com/2072-4292/11/14/1634<br />
 <p align="justify">
 "NASA’s Ice, Cloud, and Land Elevation Satellite-2 (ICESat-2) was launched in September, 2018. The satellite carries a single instrument, ATLAS (Advanced Topographic Laser Altimeter System), a green wavelength, photon-counting lidar, enabling global measurement and monitoring of elevation with a primary focus on the cryosphere. Although bathymetric mapping was not one of the design goals for ATLAS, pre-launch work by our research team showed the potential to map bathymetry with ICESat-2, using data from MABEL (Multiple Altimeter Beam Experimental Lidar)..."
