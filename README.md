@@ -66,7 +66,7 @@ The Multiple Altimeter Beam Experimental Lidar (MABEL), an airborne simulator fo
 
 ## References
 
-* **`notebooks/`**
+### Notebooks
 <br> Please refer to the following tutorial from Hackweek 2023:<br />
 https://github.com/ICESAT-2HackWeek/ICESat-2-Hackweek-2023/tree/main/book/tutorials/bathymetry<br />
 https://github.com/ICESAT-2HackWeek/ICESat-2-Hackweek-2023/tree/main/book/tutorials/DataVisualization
