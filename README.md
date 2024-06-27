@@ -1,13 +1,13 @@
 # NASA's ICESat-2 Based Near-Shore Bathymetry
 
 ## Objective
-In this project we would like to combine time-series of ICESat-2 observations to create a near continuous (depending on the number and quality of the available ICESat-2 passes) near-shore bathymetry map.  
+We would like to combine time-series of ICESat-2 observations to create a near continuous (depending on the number and quality of the available ICESat-2 passes) near-shore bathymetry map. The next step would be to understand the impact of the Baltic sea storm surge, that occured on October 20, 2023, on the seafloor erosion & deposition.  
 
 ## Collaborators
 
 Here is the list of people who contributed to this project.
 
-## References for Getting Started
+## References
 
 * **`notebooks/`**
 <br> Please refer to the following tutorial from Hackweek 2023:
