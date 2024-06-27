@@ -1,4 +1,4 @@
-# NASA's ICESat-2 Based Near-Shore Bathymetry
+# NASA's Ice Cloud and land Elevation Satellite-2 (ICESat-2) Based Near-Shore Bathymetry
 
 ## Objective
 <!-- Justify text in github's readme: https://stackoverflow.com/questions/66777538/justify-text-in-githubs-readme -->
@@ -34,7 +34,7 @@ ICESat-2 Photon Classification Using NASA GSFC YAPC ("Yet Another Photon Classif
 <br />
 YAPC Overview<br />
 https://yapc.readthedocs.io/en/latest/getting_started/Overview.html<br />
-YAPC is a prototype photon classifer for the NASA ICESat-2 ATL03 Global Geolocated Photon product. It was developed by Jeff Lee (GSFC) with the goal of supporting and simplifying science applications for the NASA Ice Cloud and land Elevation Satellite-2 (ICESat-2).
+YAPC is a prototype photon classifer for the NASA ICESat-2 ATL03 Global Geolocated Photon product. It was developed by Jeff Lee (GSFC) with the goal of supporting and simplifying science applications for the ICESat-2.
 
 
 #### What Is SlideRule?<br />https://slideruleearth.io/<br />https://github.com/SlideRuleEarth<br />
