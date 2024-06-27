@@ -1,4 +1,3 @@
-<div style="text-align: justify">
 # NASA's ICESat-2 Based Near-Shore Bathymetry
 
 ## Objective
@@ -30,7 +29,9 @@ ICESat-2 Algorithm Theoretical Basis Document for Global Geolocated Photons (ATL
 https://icesat-2.gsfc.nasa.gov/sites/default/files/page_files/ICESat2_ATL03_ATBD_r006.pdf
 
 #### What Is SlideRule?<br />https://slideruleearth.io/<br />https://github.com/SlideRuleEarth<br />
+<div style="text-align: justify">
 SlideRule is a public web service with REST APIs for processing science data and returning results. It provides researchers and other data systems with low-latency access to generated data products using processing parameters supplied at the time of the request. SlideRule runs in AWS us-west-2 and has access to ICESat-2, GEDI, Landsat, and a growing list of other datasets stored in S3. While its web services can be accessed by any http client (e.g. curl), Python and Node.js clients are provided to make it easier to interact with SlideRule. 
+</div>
 
 ### Methodology
 
@@ -48,7 +49,7 @@ https://joss.theoj.org/papers/10.21105/joss.04982
 <br> Please refer to the following tutorial from Hackweek 2023:<br />
 https://github.com/ICESAT-2HackWeek/ICESat-2-Hackweek-2023/tree/main/book/tutorials/bathymetry<br />
 https://github.com/ICESAT-2HackWeek/ICESat-2-Hackweek-2023/tree/main/book/tutorials/DataVisualization
-</div>
+
 
 
 
