@@ -29,6 +29,7 @@ Here is the list of people who contributed to this project.
 <!-- New lines inside paragraph in README.md: https://stackoverflow.com/questions/24575680/new-lines-inside-paragraph-in-readme-md -->
 <!-- Hidden markdown text on GitHub: https://stackoverflow.com/questions/46734820/hidden-markdown-text-on-github  -->
 <!-- How to add empty spaces into MD markdown readme on GitHub?: https://stackoverflow.com/questions/44810511/how-to-add-empty-spaces-into-md-markdown-readme-on-github -->
+<!-- How to create a new folder on a repository?: https://github.com/orgs/community/discussions/69927 -->
 About ICESat-2: https://icesat-2.gsfc.nasa.gov/  
 ICESat-2 Algorithm Theoretical Basis Document for Global Geolocated Photons (ATL03):<br /> 
 https://icesat-2.gsfc.nasa.gov/sites/default/files/page_files/ICESat2_ATL03_ATBD_r006.pdf<br />
