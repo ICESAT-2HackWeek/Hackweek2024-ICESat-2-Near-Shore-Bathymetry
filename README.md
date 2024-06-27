@@ -29,7 +29,7 @@ Here is the list of people who contributed to this project.
 <!-- Hidden markdown text on GitHub: https://stackoverflow.com/questions/46734820/hidden-markdown-text-on-github  -->
 About ICESat-2: https://icesat-2.gsfc.nasa.gov/  
 ICESat-2 Algorithm Theoretical Basis Document for Global Geolocated Photons (ATL03):<br /> 
-https://icesat-2.gsfc.nasa.gov/sites/default/files/page_files/ICESat2_ATL03_ATBD_r006.pdf
+https://icesat-2.gsfc.nasa.gov/sites/default/files/page_files/ICESat2_ATL03_ATBD_r006.pdf<br />
 ICESat-2 Photon Confidence Measure Using NASA GSFC YAPC ("Yet Another Photon Classifier") Algorithm: https://github.com/tsutterley/yapc 
 
 
