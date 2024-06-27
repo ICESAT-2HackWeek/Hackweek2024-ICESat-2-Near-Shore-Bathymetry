@@ -12,7 +12,7 @@ This template provides the following suggested organizaiton structure for the pr
 * **`notebooks/`**
 <br> Notebooks that are considered delivered results for the project should go in here.
 * **`scripts/`**
-<br> Code that is shared by the team should go in here (e.g. functions or subroutines). These will be files other than Jupyter Notebooks such as Python scripts (.py).
+<br> Please refer to the tutorial from Hackweek 2023: https://github.com/ICESAT-2HackWeek/ICESat-2-Hackweek-2023/tree/main/book/tutorials/bathymetry
 * `.gitignore`
 <br> This file sets the files that will be globally ignored by `git` for the project. (e.g. you may want git to ignore temporary files or large data files, [read more about ignoring files here](https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files))
 * `environment.yml`
