@@ -6,7 +6,7 @@ In this project we would like to combine time-series of ICESat-2 observations to
 
 Here is the list of people who contributed to this project.
 
-## References
+## References for Getting Started
 
 * **`notebooks/`**
 <br> Please refer to the following tutorial from Hackweek 2023:
