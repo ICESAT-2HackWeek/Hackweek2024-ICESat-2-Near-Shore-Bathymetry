@@ -10,9 +10,11 @@ This template provides the following suggested organizaiton structure for the pr
 * **`contributors/`**
 <br> Each team member can create their own folder under contributors, within which they can work on their own scripts, notebooks, and other files. Having a dedicated folder for each person helps to prevent conflicts when merging with the main branch. This is a good place for team members to start off exploring data and methods for the project.
 * **`notebooks/`**
-<br> Please refer to the bathymetry tutorial from Hackweek 2023: https://github.com/ICESAT-2HackWeek/ICESat-2-Hackweek-2023/tree/main/book/tutorials/bathymetry
+<br> Please refer to the following tutorial from Hackweek 2023:
+https://github.com/ICESAT-2HackWeek/ICESat-2-Hackweek-2023/tree/main/book/tutorials/bathymetry
+https://github.com/ICESAT-2HackWeek/ICESat-2-Hackweek-2023/tree/main/book/tutorials/DataVisualization
 * **`scripts/`**
-<br> Please refer to the bathymetry tutorial from Hackweek 2023: https://github.com/ICESAT-2HackWeek/ICESat-2-Hackweek-2023/tree/main/book/tutorials/bathymetry
+<br> xxx
 * `.gitignore`
 <br> This file sets the files that will be globally ignored by `git` for the project. (e.g. you may want git to ignore temporary files or large data files, [read more about ignoring files here](https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files))
 * `environment.yml`
