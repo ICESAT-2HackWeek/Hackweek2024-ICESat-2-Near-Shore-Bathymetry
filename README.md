@@ -25,6 +25,7 @@ Here is the list of people who contributed to this project.
 
 About ICESat-2: https://icesat-2.gsfc.nasa.gov/  
 ICESat-2 Algorithm Theoretical Basis Document for Global Geolocated Photons (ATL03): 
+
 https://icesat-2.gsfc.nasa.gov/sites/default/files/page_files/ICESat2_ATL03_ATBD_r006.pdf
 
 ### Existing methods
