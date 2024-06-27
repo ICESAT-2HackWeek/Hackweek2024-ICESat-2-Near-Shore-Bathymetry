@@ -1,6 +1,6 @@
 # NASA's ICESat-2 Based Near-Shore Bathymetry
 
-In this project we would like to combine time-series of ICESat-2 observations to create a near continuous (depending on the number and quality of the available ICESat-2 passes) 
+In this project we would like to combine time-series of ICESat-2 observations to create a near continuous (depending on the number and quality of the available ICESat-2 passes) near-shore bathymetry map.  
 
 
 ## Files and folders in your project repository
