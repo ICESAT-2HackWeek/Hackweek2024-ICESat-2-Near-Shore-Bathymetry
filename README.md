@@ -12,9 +12,9 @@ This template provides the following suggested organizaiton structure for the pr
 * **`notebooks/`**
 <br> Please refer to the following tutorial from Hackweek 2023:
 
-https://github.com/ICESAT-2HackWeek/ICESat-2-Hackweek-2023/tree/main/book/tutorials/bathymetry
+<br> https://github.com/ICESAT-2HackWeek/ICESat-2-Hackweek-2023/tree/main/book/tutorials/bathymetry
 
-https://github.com/ICESAT-2HackWeek/ICESat-2-Hackweek-2023/tree/main/book/tutorials/DataVisualization
+<br> https://github.com/ICESAT-2HackWeek/ICESat-2-Hackweek-2023/tree/main/book/tutorials/DataVisualization
 * **`scripts/`**
 <br> xxx
 * `.gitignore`
