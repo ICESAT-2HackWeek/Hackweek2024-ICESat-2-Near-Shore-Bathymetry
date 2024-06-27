@@ -34,8 +34,8 @@ SlideRule is a public web service with REST APIs for processing science data and
 
 
 ### Literature
-
-Optional: links to manuscripts or technical documents providing background information, context, or other relevant information.
+SlideRule: Enabling rapid, scalable, open science for the NASA ICESat-2 mission and beyond<br /> 
+https://joss.theoj.org/papers/10.21105/joss.04982
 
 
 
