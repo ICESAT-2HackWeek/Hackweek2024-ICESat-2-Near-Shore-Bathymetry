@@ -34,10 +34,10 @@ ICESat-2 Photon Classification Using NASA GSFC YAPC ("Yet Another Photon Classif
 <br />
 YAPC Overview<br />
 https://yapc.readthedocs.io/en/latest/getting_started/Overview.html<br />
-YAPC is a prototype photon classifer for the NASA ICESat-2 ATL03 Global Geolocated Photon product. It was developed by Jeff Lee (GSFC) with the goal of supporting and simplifying science applications for the ICESat-2.
+YAPC is a prototype photon classifer for the NASA ICESat-2 ATL03 Global Geolocated Photon product. It was developed by Jeff Lee (GSFC) with the goal of supporting and simplifying science applications for the ICESat-2. It is a customized inverse-distance kNN algorithm developed to determine the significance (or weight) of individual photon events. The weight of each photon is indicative of localized density based on it surrounding K neighbors and the inverse distances.
+<br />
 
-
-#### What Is SlideRule?<br />https://slideruleearth.io/<br />https://github.com/SlideRuleEarth<br />
+What Is SlideRule?<br />https://slideruleearth.io/<br />https://github.com/SlideRuleEarth<br />
 <p align="justify">
 SlideRule is a public web service with REST APIs for processing science data and returning results. It provides researchers and other data systems with low-latency access to generated data products using processing parameters supplied at the time of the request. SlideRule runs in AWS us-west-2 and has access to ICESat-2, GEDI, Landsat, and a growing list of other datasets stored in S3. While its web services can be accessed by any http client (e.g. curl), Python and Node.js clients are provided to make it easier to interact with SlideRule. 
 </p>
