@@ -19,11 +19,12 @@ Here is the list of people who contributed to this project.
 
 
 
-## Data and Methods
+## Data & Methods
 
 ### Data
 
-Briefly describe and provide citations for the data that will be used (size, format, how to access).
+About ICESat-2: https://icesat-2.gsfc.nasa.gov/  
+CESat-2 Algorithm Theoretical Basis Document for Global Geolocated Photons (ATL03): https://icesat-2.gsfc.nasa.gov/sites/default/files/page_files/ICESat2_ATL03_ATBD_r006.pdf
 
 ### Existing methods
 
@@ -35,7 +36,7 @@ What new approaches would you like to implement for addressing your specific que
 
 Will your project use machine learning methods? If so, we invite you to create a [model card](model-card.md)!
 
-### Additional resources or background reading
+### Literature
 
 Optional: links to manuscripts or technical documents providing background information, context, or other relevant information.
 
