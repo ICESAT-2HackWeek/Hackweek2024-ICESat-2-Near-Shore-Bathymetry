@@ -1,3 +1,4 @@
+<div style="text-align: justify">
 # NASA's ICESat-2 Based Near-Shore Bathymetry
 
 ## Objective
@@ -47,7 +48,7 @@ https://joss.theoj.org/papers/10.21105/joss.04982
 <br> Please refer to the following tutorial from Hackweek 2023:<br />
 https://github.com/ICESAT-2HackWeek/ICESat-2-Hackweek-2023/tree/main/book/tutorials/bathymetry<br />
 https://github.com/ICESAT-2HackWeek/ICESat-2-Hackweek-2023/tree/main/book/tutorials/DataVisualization
-
+</div>
 
 
 
