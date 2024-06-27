@@ -45,11 +45,11 @@ What Is SlideRule?<br />https://slideruleearth.io/<br />https://github.com/Slide
 SlideRule is a public web service with REST APIs for processing science data and returning results. It provides researchers and other data systems with low-latency access to generated data products using processing parameters supplied at the time of the request. SlideRule runs in AWS us-west-2 and has access to ICESat-2, GEDI, Landsat, and a growing list of other datasets stored in S3. While its web services can be accessed by any http client (e.g. curl), Python and Node.js clients are provided to make it easier to interact with SlideRule. 
 </p>
 
-### Methodology
-
-
 
 ### Literature
+The ICESat-2 Laser Altimetry Mission: https://ieeexplore.ieee.org/abstract/document/5461025 
+$~$<br />
+
 SlideRule: Enabling rapid, scalable, open science for the NASA ICESat-2 mission and beyond: https://joss.theoj.org/papers/10.21105/joss.04982
 $~$<br />
 
