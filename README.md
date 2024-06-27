@@ -3,28 +3,15 @@
 In this project we would like to combine time-series of ICESat-2 observations to create a near continuous (depending on the number and quality of the available ICESat-2 passes) near-shore bathymetry map.  
 
 
-## Files and folders in your project repository
+## References
 
-This template provides the following suggested organizaiton structure for the project repository, but each project team is free to organize their repository as they see fit.
-
-* **`contributors/`**
-<br> Each team member can create their own folder under contributors, within which they can work on their own scripts, notebooks, and other files. Having a dedicated folder for each person helps to prevent conflicts when merging with the main branch. This is a good place for team members to start off exploring data and methods for the project.
 * **`notebooks/`**
 <br> Please refer to the following tutorial from Hackweek 2023:
 
-<br> https://github.com/ICESAT-2HackWeek/ICESat-2-Hackweek-2023/tree/main/book/tutorials/bathymetry
+https://github.com/ICESAT-2HackWeek/ICESat-2-Hackweek-2023/tree/main/book/tutorials/bathymetry
 
-<br> https://github.com/ICESAT-2HackWeek/ICESat-2-Hackweek-2023/tree/main/book/tutorials/DataVisualization
-* **`scripts/`**
-<br> xxx
-* `.gitignore`
-<br> This file sets the files that will be globally ignored by `git` for the project. (e.g. you may want git to ignore temporary files or large data files, [read more about ignoring files here](https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files))
-* `environment.yml`
-<br> `conda` environment description needed to run this project.
-* `README.md`
-<br> Description of the project (see suggested headings below)
-* `model-card.md`
-<br> Description (following a metadata standard) of any machine learning models used in the project
+https://github.com/ICESAT-2HackWeek/ICESat-2-Hackweek-2023/tree/main/book/tutorials/DataVisualization
+
 
 # Recommended content for your README.md file:
 
