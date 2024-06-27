@@ -29,7 +29,7 @@ ICESat-2 Algorithm Theoretical Basis Document for Global Geolocated Photons (ATL
 ### Methodology
 
 What Is SlideRule? 
-https://slideruleearth.io/
+https://slideruleearth.io/\\
 SlideRule is a public web service with REST APIs for processing science data and returning results. It provides researchers and other data systems with low-latency access to generated data products using processing parameters supplied at the time of the request. SlideRule runs in AWS us-west-2 and has access to ICESat-2, GEDI, Landsat, and a growing list of other datasets stored in S3. While its web services can be accessed by any http client (e.g. curl), Python and Node.js clients are provided to make it easier to interact with SlideRule.
 
 ### Literature
