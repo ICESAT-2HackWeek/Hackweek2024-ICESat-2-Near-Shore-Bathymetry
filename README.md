@@ -44,6 +44,8 @@ SlideRule is a public web service with REST APIs for processing science data and
 SlideRule: Enabling rapid, scalable, open science for the NASA ICESat-2 mission and beyond<br /> 
 https://joss.theoj.org/papers/10.21105/joss.04982
 
+A Framework for Automated Supraglacial Lake Detection and Depth Retrieval in ICESat-2 Photon Data Across the Greenland and Antarctic Ice Sheets<br />
+https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1156/egusphere-2024-1156.pdf 
 
 
 ## References
