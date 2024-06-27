@@ -54,6 +54,9 @@ $~$<br />
 SlideRule: Enabling rapid, scalable, open science for the NASA ICESat-2 mission and beyond: https://joss.theoj.org/papers/10.21105/joss.04982
 $~$<br />
 
+icepyx-querying, obtaining, analyzing, and manipulating ICESat-2 datasets: https://joss.theoj.org/papers/10.21105/joss.04912
+$~$<br />
+
 A Framework for Automated Supraglacial Lake Detection and Depth Retrieval in ICESat-2 Photon Data Across the Greenland and Antarctic Ice Sheets: https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1156/egusphere-2024-1156.pdf 
 $~$<br />
 
