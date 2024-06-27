@@ -4,7 +4,7 @@
 ## Objective
 <!-- Justify text in github's readme: https://stackoverflow.com/questions/66777538/justify-text-in-githubs-readme -->
 <p align="justify">
-We would like to combine time-series of ICESat-2 observations to create a near continuous (depending on the number and quality of the available ICESat-2 passes) near-shore bathymetry map. The next step would be to understand the impact of the Baltic sea storm surge, that occured on October 20, 2023, on the seafloor erosion & deposition.   
+We would like to combine time-series of ICESat-2 observations to create a near continuous (depending on the number and quality of the available ICESat-2 passes) near-shore bathymetry map. Furthermore, we would like to understand the impact of the Baltic sea storm surge on the seafloor erosion & deposition. The storm occured on October 20, 2023 and caused massive infrastructural damage along the north coast of Germany.   
 </p>
 
 Here is more on the 2023 storm: 
