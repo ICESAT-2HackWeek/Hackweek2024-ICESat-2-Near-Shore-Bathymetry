@@ -19,7 +19,7 @@ Here is the list of people who contributed to this project.
 
 
 
-## Data & Methods
+## Data & Methodology
 
 ### Data
 
