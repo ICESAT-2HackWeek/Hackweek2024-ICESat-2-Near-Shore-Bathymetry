@@ -78,7 +78,9 @@ $~$<br />
 
 For refraction correction of bottom return photons: Validation of ICESat-2 ATLAS Bathymetry and Analysis of ATLAS’s Bathymetric Mapping Performance: https://www.mdpi.com/2072-4292/11/14/1634<br />
 
-The Multiple Altimeter Beam Experimental Lidar (MABEL), an airborne simulator for the ICESat-2 mission: https://ntrs.nasa.gov/api/citations/20120016023/downloads/20120016023.pdf<br />
+The Multiple Altimeter Beam Experimental Lidar (MABEL), an airborne simulator for the ICESat-2 mission: https://ntrs.nasa.gov/api/citations/20120016023/downloads/20120016023.pdf<br /> 
+
+The ICESat-2 mission: A global geolocated photon product derived from the Advanced Topographic Laser Altimeter System: https://www.sciencedirect.com/science/article/pii/S003442571930344X<br /> 
 
 
 
