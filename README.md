@@ -1,5 +1,5 @@
 
-# <p align="justify">Observing Near-Shore Bathymetry With NASA's Ice Cloud and land Elevation Satellite-2 (ICESat-2): Space Based LIDAR</p>
+# <p align="justify">Observing Near-Shore Bathymetry With NASA's Ice Cloud and land Elevation Satellite-2 (ICESat-2) Space Based LIDAR</p>
 
 ## Objective
 <!-- Justify text in github's readme: https://stackoverflow.com/questions/66777538/justify-text-in-githubs-readme -->
