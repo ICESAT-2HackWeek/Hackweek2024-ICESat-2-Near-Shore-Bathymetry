@@ -53,6 +53,11 @@ What Is SlideRule?<br />https://slideruleearth.io/<br />https://github.com/Slide
 <p align="justify">
 SlideRule is a public web service with REST APIs for processing science data and returning results. It provides researchers and other data systems with low-latency access to generated data products using processing parameters supplied at the time of the request. SlideRule runs in AWS us-west-2 and has access to ICESat-2, GEDI, Landsat, and a growing list of other datasets stored in S3. While its web services can be accessed by any http client (e.g. curl), Python and Node.js clients are provided to make it easier to interact with SlideRule. 
 </p>
+<br />
+Reference Bathymetry
+The European harmonised bathymetry grid EMODnet Bathymetry: 
+https://www.dhyg.de/images/fachbeitraege/DOI_10.23784_HN117_03.pdf
+![grafik](https://github.com/arnab-muhuri/Hackweek2024-ICESat-2-Near-Shore-Bathymetry/assets/39490642/f4047534-89e1-4a2e-95ef-9f7bdaf5f1cb)
 
 
 ### Literature
@@ -72,8 +77,7 @@ For refraction correction of bottom return photons: Validation of ICESat-2 ATLAS
 
 The Multiple Altimeter Beam Experimental Lidar (MABEL), an airborne simulator for the ICESat-2 mission: https://ntrs.nasa.gov/api/citations/20120016023/downloads/20120016023.pdf<br />
 
-The European harmonised bathymetry grid EMODnet Bathymetry: 
-https://www.dhyg.de/images/fachbeitraege/DOI_10.23784_HN117_03.pdf
+
 
 ## Getting Started
 ### Getting Started: Jupyter Notebooks
