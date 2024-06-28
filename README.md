@@ -58,7 +58,7 @@ SlideRule is a public web service with REST APIs for processing science data and
 Reference Bathymetry
 The European harmonised bathymetry grid EMODnet Bathymetry: 
 https://www.dhyg.de/images/fachbeitraege/DOI_10.23784_HN117_03.pdf<br />
-![alt text](https://github.com/arnab-muhuri/Hackweek2024-ICESat-2-Near-Shore-Bathymetry/assets/39490642/f4047534-89e1-4a2e-95ef-9f7bdaf5f1cb)
+
 
 
 ### Literature
