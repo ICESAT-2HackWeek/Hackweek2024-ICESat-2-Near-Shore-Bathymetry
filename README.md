@@ -28,8 +28,9 @@ We would also try our hands on machine learning models to see if we can train a 
 
 Here is a biosketch of the team that we would like to put together for this project. You are welcome to join even if you don't fit into one of these categories. Willingness to Learn & Fail are the most important prerequisites.
 * The ICESat-2 enthusiast
-* The Machine Learning enthusiast
-* The Ocean enthusiast
+* The Machine Learning nerd
+* The Ocean lover
+* The Python guru
 
 
 ## Data & Methodology
