@@ -21,7 +21,7 @@ https://www.uni-kiel.de/en/details/news/299-floods-adaptations-balticsea
 https://www.surf-magazin.de/en/spots-and-areas/baltic-sea/flood-of-the-century-the-baltic-sea-storm-surge-2023-this-is-the-current-situation-at-the-spots/
 
 <p align="justify">
-We would also try our hands on machine learning models to see if we can train a model with Sentinel-2 optical spectral data and ground reference bathymetry measurements. We also have the luxury to peep into the depths of the drifting Arctic meltponds.
+We would also try our hands on machine learning models to see if we can train a model with Sentinel-2 optical spectral data and ground reference bathymetry measurements. We will also have the luxury to peep into the depths of drifting Arctic meltponds.
 </p>
 
 ## Collaborators
