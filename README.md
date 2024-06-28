@@ -62,7 +62,9 @@ The European harmonised bathymetry grid EMODnet Bathymetry:
 https://www.dhyg.de/images/fachbeitraege/DOI_10.23784_HN117_03.pdf<br />
 
 ### Workflow
-
+* We will be using Google Colab for executing the Python notebooks.
+* Results and other documentations can be stored on Google Doc/Drive.
+* For drafting a manuscript resulting from this work, we will use Overleaf: https://www.overleaf.com/ 
 
 ### Literature
 The ICESat-2 Laser Altimetry Mission: https://ieeexplore.ieee.org/abstract/document/5461025 
