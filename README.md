@@ -64,8 +64,8 @@ https://www.dhyg.de/images/fachbeitraege/DOI_10.23784_HN117_03.pdf<br />
 ### Workflow
 * We will be using Google Colab for executing the Python notebooks. We would like to integrate the GitHub repository with Google Colab.
   https://stackoverflow.com/questions/67553747/how-do-i-link-a-github-repository-to-a-google-colab-notebook<br />   
-* Results and other documentations can be stored on Google Doc/Drive.
-* For drafting a manuscript resulting from this work, we will use Overleaf: https://www.overleaf.com/ 
+* Results and other documentations can be stored on Google Doc/Drive. I'll host some data on the University of Kiel cloud.
+* For drafting a manuscript resulting from this work, we will work collaboratively on Overleaf: https://www.overleaf.com/ 
 
 ### Literature
 The ICESat-2 Laser Altimetry Mission: https://ieeexplore.ieee.org/abstract/document/5461025 
