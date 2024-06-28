@@ -3,7 +3,7 @@ https://cloud.rz.uni-kiel.de/index.php/s/y7wzP6nrTy8xiDA?
 
 We will use the ground reference for comparing our ICESat-2 based bathymetry retrieval as well as for traning & testing the machine learning model.
 
-Here is how the reference bathymetry looks over the north eastern coast of Germany. The depth varies from 0-46 m.
+Here is how the reference bathymetry looks over the north eastern coast of Germany. The under water depth varies from 0-46 m.
 https://github.com/arnab-muhuri/Hackweek2024-ICESat-2-Near-Shore-Bathymetry/assets/39490642/f4047534-89e1-4a2e-95ef-9f7bdaf5f1cb
 
 
