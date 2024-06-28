@@ -33,7 +33,7 @@ Here is a biosketch of the team that we would like to put together for this proj
 * The Python/Google Colab/R/Google Earth Engine (GEE) guru(s)
 
 
-## Data & Methodology
+## Data, Workflow, and Literature
 
 ### Data
 <!-- New lines inside paragraph in README.md: https://stackoverflow.com/questions/24575680/new-lines-inside-paragraph-in-readme-md -->
