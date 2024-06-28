@@ -86,6 +86,8 @@ The Multiple Altimeter Beam Experimental Lidar (MABEL), an airborne simulator fo
 
 The ICESat-2 mission: A global geolocated photon product derived from the Advanced Topographic Laser Altimeter System: https://www.sciencedirect.com/science/article/pii/S003442571930344X<br /> 
 
+Evaluation of a Statistical Approach for Extracting Shallow Water Bathymetry Signals from ICESat-2 ATL03 Photon Data: https://www.mdpi.com/2072-4292/13/17/3548<br /> 
+
 
 
 ## Getting Started
