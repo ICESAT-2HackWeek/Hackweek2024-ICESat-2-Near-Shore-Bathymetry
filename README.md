@@ -11,7 +11,7 @@ _Parrish et al., 2019:_
 "NASA’s Ice, Cloud, and Land Elevation Satellite-2 (ICESat-2) was launched in September, 2018. The satellite carries a single instrument, ATLAS (Advanced Topographic Laser Altimeter System), a green wavelength, photon-counting lidar, enabling global measurement and monitoring of elevation with a primary focus on the cryosphere. Although bathymetric mapping was not one of the design goals for ATLAS, pre-launch work by our research team showed the potential to map bathymetry with ICESat-2, using data from MABEL (Multiple Altimeter Beam Experimental Lidar)..."
 </p><br />
 <p align="justify">
-*We would like to combine time-series of ICESat-2 observations to create a near continuous (depending on the number and quality of the available ICESat-2 passes) near-shore bathymetry map. Furthermore, we would like to understand the impact of the Baltic sea storm surge on the seafloor erosion & deposition. The storm occured on October 20, 2023 and caused massive infrastructural damage along the north eastern coast of Germany.   
+We would like to combine time-series of ICESat-2 observations to create a near continuous (depending on the number and quality of the available ICESat-2 passes) near-shore bathymetry map. Furthermore, we would like to understand the impact of the Baltic sea storm surge on the seafloor erosion & deposition. The storm occured on October 20, 2023 and caused massive infrastructural damage along the north eastern coast of Germany.   
 </p>
 
 Here is more on the 2023 storm: 
@@ -21,9 +21,7 @@ https://www.uni-kiel.de/en/details/news/299-floods-adaptations-balticsea
 https://www.surf-magazin.de/en/spots-and-areas/baltic-sea/flood-of-the-century-the-baltic-sea-storm-surge-2023-this-is-the-current-situation-at-the-spots/
 
 <p align="justify">
-*We would also try our hands on machine learning models to see if we can train a model with Sentinel-2 optical spectral data and ground reference bathymetry measurements. 
-*We also have the luxury to peep into the depths of the drifting Arctic meltponds.
-  
+We would also try our hands on machine learning models to see if we can train a model with Sentinel-2 optical spectral data and ground reference bathymetry measurements. We also have the luxury to peep into the depths of the drifting Arctic meltponds.
 </p>
 
 ## Collaborators
@@ -33,6 +31,7 @@ Here is a biosketch of the team that we would like to put together for this proj
 * The Machine Learning nerd
 * The Ocean lover
 * The Python/Google Colab/R/Google Earth Engine (GEE) guru(s)
+* The Street Smart & Quick-Witted
 
 
 ## Data, Workflow, and Literature
