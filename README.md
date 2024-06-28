@@ -71,6 +71,9 @@ https://www.dhyg.de/images/fachbeitraege/DOI_10.23784_HN117_03.pdf<br />
 The ICESat-2 Laser Altimetry Mission: https://ieeexplore.ieee.org/abstract/document/5461025 
 $~$<br />
 
+ICESat-2 Bathymetry Overview: https://github.com/ICESat2-Bathymetry/Information
+$~$<br />
+
 SlideRule: Enabling rapid, scalable, open science for the NASA ICESat-2 mission and beyond: https://joss.theoj.org/papers/10.21105/joss.04982
 $~$<br />
 
