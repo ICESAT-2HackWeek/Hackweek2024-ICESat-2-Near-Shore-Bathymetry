@@ -61,6 +61,9 @@ Reference Bathymetry
 The European harmonised bathymetry grid EMODnet Bathymetry: 
 https://www.dhyg.de/images/fachbeitraege/DOI_10.23784_HN117_03.pdf<br />
 
+A purely spaceborne open source approach for regional bathymetry mapping: Bahamas Median DEM<br />
+https://ieee-dataport.org/documents/purely-spaceborne-open-source-approach-regional-bathymetry-mapping-bahamas-median-dem
+
 ### Workflow
 * We will be using Google Colab for executing the Python notebooks. We would like to integrate the GitHub repository with Google Colab.<br />  
   https://stackoverflow.com/questions/67553747/how-do-i-link-a-github-repository-to-a-google-colab-notebook<br />   
