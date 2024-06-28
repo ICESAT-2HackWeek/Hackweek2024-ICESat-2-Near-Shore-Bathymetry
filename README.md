@@ -69,7 +69,11 @@ https://ieee-dataport.org/documents/purely-spaceborne-open-source-approach-regio
 * We will be using Google Colab for executing the Python notebooks. We would like to integrate the GitHub repository with Google Colab.<br />  
   https://stackoverflow.com/questions/67553747/how-do-i-link-a-github-repository-to-a-google-colab-notebook<br />   
 * Results and other documentations can be stored on Google Doc/Drive. I'll host some data on the University of Kiel cloud.
-* For drafting a manuscript resulting from this work, we will work collaboratively on Overleaf: https://www.overleaf.com/ 
+* For drafting a manuscript resulting from this work, we will work collaboratively on Overleaf: https://www.overleaf.com/
+
+#### Project Essentials
+* Searching for the closest ICESat-2 flyover for a given AOI: https://github.com/ICESAT-2HackWeek/EverythingAnyWhereAllAtOnce
+* 
 
 ### Literature
 The ICESat-2 Laser Altimetry Mission: https://ieeexplore.ieee.org/abstract/document/5461025 
