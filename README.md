@@ -1,5 +1,5 @@
 
-# <p align="justify">Observing Near-Shore Bathymetry With NASA's Ice Cloud and land Elevation Satellite-2 (ICESat-2) Space Based LIDAR</p>
+# <p align="justify">Space Based LIDAR: Observing Near-Shore Bathymetry With NASA's Ice Cloud and land Elevation Satellite-2 (ICESat-2)</p>
 
 ## Objective
 <!-- Justify text in github's readme: https://stackoverflow.com/questions/66777538/justify-text-in-githubs-readme -->
@@ -62,7 +62,8 @@ The European harmonised bathymetry grid EMODnet Bathymetry:
 https://www.dhyg.de/images/fachbeitraege/DOI_10.23784_HN117_03.pdf<br />
 
 ### Workflow
-* We will be using Google Colab for executing the Python notebooks.
+* We will be using Google Colab for executing the Python notebooks. We would like to integrate the GitHub repository with Google Colab.
+  https://stackoverflow.com/questions/67553747/how-do-i-link-a-github-repository-to-a-google-colab-notebook<br />   
 * Results and other documentations can be stored on Google Doc/Drive.
 * For drafting a manuscript resulting from this work, we will use Overleaf: https://www.overleaf.com/ 
 
