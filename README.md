@@ -5,6 +5,7 @@
 <!-- Justify text in github's readme: https://stackoverflow.com/questions/66777538/justify-text-in-githubs-readme -->
 <!-- Markdown Cheatsheet: https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md -->
 <!-- How to add images to README.md on GitHub?: https://stackoverflow.com/questions/14494747/how-to-add-images-to-readme-md-on-github -->
+<!-- https://docs.github.com/de/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
 _Parrish et al., 2019:_
 <p align="justify">
 "NASA’s Ice, Cloud, and Land Elevation Satellite-2 (ICESat-2) was launched in September, 2018. The satellite carries a single instrument, ATLAS (Advanced Topographic Laser Altimeter System), a green wavelength, photon-counting lidar, enabling global measurement and monitoring of elevation with a primary focus on the cryosphere. Although bathymetric mapping was not one of the design goals for ATLAS, pre-launch work by our research team showed the potential to map bathymetry with ICESat-2, using data from MABEL (Multiple Altimeter Beam Experimental Lidar)..."
