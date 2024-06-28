@@ -72,7 +72,8 @@ For refraction correction of bottom return photons: Validation of ICESat-2 ATLAS
 
 The Multiple Altimeter Beam Experimental Lidar (MABEL), an airborne simulator for the ICESat-2 mission: https://ntrs.nasa.gov/api/citations/20120016023/downloads/20120016023.pdf<br />
 
-The European harmonised bathymetry grid EMODnet Bathymetry: https://www.dhyg.de/images/fachbeitraege/DOI_10.23784_HN117_03.pdf
+The European harmonised bathymetry grid EMODnet Bathymetry: 
+https://www.dhyg.de/images/fachbeitraege/DOI_10.23784_HN117_03.pdf
 
 ## Getting Started
 ### Getting Started: Jupyter Notebooks
