@@ -5,9 +5,9 @@
 <!-- Justify text in github's readme: https://stackoverflow.com/questions/66777538/justify-text-in-githubs-readme -->
 <!-- Markdown Cheatsheet: https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md -->
 <!-- How to add images to README.md on GitHub?: https://stackoverflow.com/questions/14494747/how-to-add-images-to-readme-md-on-github -->
-Parrish et al., 2019:
+_Parrish et al., 2019:_
 <p align="justify">
-"NASA’s Ice, Cloud, and Land Elevation Satellite-2 (ICESat-2) was launched in September, 2018. The satellite carries a single instrument, ATLAS (Advanced Topographic Laser Altimeter System), a green wavelength, photon-counting lidar, enabling global measurement and monitoring of elevation with a primary focus on the cryosphere. Although bathymetric mapping was not one of the design goals for ATLAS, pre-launch work by our research team showed the potential to map bathymetry with ICESat-2, using data from MABEL (Multiple Altimeter Beam Experimental Lidar)..."
+_"NASA’s Ice, Cloud, and Land Elevation Satellite-2 (ICESat-2) was launched in September, 2018. The satellite carries a single instrument, ATLAS (Advanced Topographic Laser Altimeter System), a green wavelength, photon-counting lidar, enabling global measurement and monitoring of elevation with a primary focus on the cryosphere. Although bathymetric mapping was not one of the design goals for ATLAS, pre-launch work by our research team showed the potential to map bathymetry with ICESat-2, using data from MABEL (Multiple Altimeter Beam Experimental Lidar)..."_
 </p><br />
 <p align="justify">
 We would like to combine time-series of ICESat-2 observations to create a near continuous (depending on the number and quality of the available ICESat-2 passes) near-shore bathymetry map. Furthermore, we would like to understand the impact of the Baltic sea storm surge on the seafloor erosion & deposition. The storm occured on October 20, 2023 and caused massive infrastructural damage along the north eastern coast of Germany.   
