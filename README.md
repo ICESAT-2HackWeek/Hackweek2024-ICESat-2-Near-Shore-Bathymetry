@@ -30,7 +30,7 @@ Here is a biosketch of the team that we would like to put together for this proj
 * The ICESat-2 enthusiast
 * The Machine Learning nerd
 * The Ocean lover
-* The Python guru
+* The Python/Google Colab/R/Google Earth Engine (GEE) guru(s)
 
 
 ## Data & Methodology
