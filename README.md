@@ -42,7 +42,7 @@ Here is a biosketch of the team that we would like to put together for this proj
 About ICESat-2: https://icesat-2.gsfc.nasa.gov/  
 ICESat-2 Algorithm Theoretical Basis Document for Global Geolocated Photons (ATL03):<br /> 
 https://icesat-2.gsfc.nasa.gov/sites/default/files/page_files/ICESat2_ATL03_ATBD_r006.pdf<br />
-ICESat-2 Photon Classification Using NASA GSFC YAPC ("Yet Another Photon Classifier") Algorithm: https://github.com/tsutterley/yapc<br />
+ICESat-2 Photon Classification Using NASA Goddard Space Flight Center (GSFC) "Yet Another Photon Classifier" (YAPC) Algorithm: https://github.com/tsutterley/yapc<br />
 <br />
 YAPC Overview
 <p align="justify">
