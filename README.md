@@ -4,6 +4,7 @@
 ## Objective
 <!-- Justify text in github's readme: https://stackoverflow.com/questions/66777538/justify-text-in-githubs-readme -->
 <!-- Markdown Cheatsheet: https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md -->
+<!-- How to add images to README.md on GitHub?: https://stackoverflow.com/questions/14494747/how-to-add-images-to-readme-md-on-github -->
 Parrish et al., 2019:
 <p align="justify">
 "NASA’s Ice, Cloud, and Land Elevation Satellite-2 (ICESat-2) was launched in September, 2018. The satellite carries a single instrument, ATLAS (Advanced Topographic Laser Altimeter System), a green wavelength, photon-counting lidar, enabling global measurement and monitoring of elevation with a primary focus on the cryosphere. Although bathymetric mapping was not one of the design goals for ATLAS, pre-launch work by our research team showed the potential to map bathymetry with ICESat-2, using data from MABEL (Multiple Altimeter Beam Experimental Lidar)..."
@@ -57,7 +58,7 @@ SlideRule is a public web service with REST APIs for processing science data and
 Reference Bathymetry
 The European harmonised bathymetry grid EMODnet Bathymetry: 
 https://www.dhyg.de/images/fachbeitraege/DOI_10.23784_HN117_03.pdf<br />
-![grafik](https://github.com/arnab-muhuri/Hackweek2024-ICESat-2-Near-Shore-Bathymetry/assets/39490642/f4047534-89e1-4a2e-95ef-9f7bdaf5f1cb)
+![alt text](https://github.com/arnab-muhuri/Hackweek2024-ICESat-2-Near-Shore-Bathymetry/assets/39490642/f4047534-89e1-4a2e-95ef-9f7bdaf5f1cb)
 
 
 ### Literature
