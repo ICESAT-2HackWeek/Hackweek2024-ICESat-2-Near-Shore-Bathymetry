@@ -1,1 +1,2 @@
+This is the link to the reference data and Sentinel-2 optical spectral data. There is a Readme.txt for your perusal.
 https://cloud.rz.uni-kiel.de/index.php/s/y7wzP6nrTy8xiDA?
