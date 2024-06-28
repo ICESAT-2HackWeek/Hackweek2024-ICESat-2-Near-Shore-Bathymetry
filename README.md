@@ -88,9 +88,10 @@ https://github.com/ICESAT-2HackWeek/ICESat-2-Hackweek-2023/tree/main/book/tutori
 https://github.com/ICESAT-2HackWeek/ICESat-2-Hackweek-2023/tree/main/book/tutorials/DataVisualization
 
 ### Important to Know
+Github Forking (creating a copy of a repo on your own Github account) & Pull Request (requesting the owner of the original repo to accept the modifications that were made to the forked repo): https://www.earthdatascience.org/workshops/intro-version-control-git/about-forks/<br /> 
 How to Execute Jupyter Notebooks from GitHub: https://soshnikov.com/education/how-to-execute-notebooks-from-github/<br />
 Google Colaboratory is a research tool for machine learning education and research. It’s a Jupyter notebook environment that requires no setup to use: https://github.com/googlecolab/colabtools<br />  
-Github Forking (creating a copy of a repo on your own Github account) & Pull Request (requesting the owner of the original repo to accept the modifications that were made to the forked repo): https://www.earthdatascience.org/workshops/intro-version-control-git/about-forks/ 
+
 
 
 
