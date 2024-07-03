@@ -114,6 +114,8 @@ How to Execute Jupyter Notebooks from GitHub: https://soshnikov.com/education/ho
 <br />
 Google Colaboratory is a research tool for machine learning education and research. It’s a Jupyter notebook environment that requires no setup to use: https://github.com/googlecolab/colabtools
 <br />  
+How to Share Google Colab Notebook on Github: https://www.youtube.com/watch?v=xNfiLvgG3iA
+<br />
 
 
 
