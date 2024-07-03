@@ -6,4 +6,9 @@ We will use the ground reference for comparing our ICESat-2 based bathymetry ret
 Here is how the reference bathymetry looks over the north eastern coast of Germany. The under water depth varies from 0-46 m.
 https://github.com/arnab-muhuri/Hackweek2024-ICESat-2-Near-Shore-Bathymetry/assets/39490642/f4047534-89e1-4a2e-95ef-9f7bdaf5f1cb
 
+The reference bathymetry dataset is provided by the Bundesamt für Seeschifffahrt und Hydrographie (BSH) in 50 m resolution. It is distributed under the "Datenlizenz Deutschland Namensnennung 2.0" (https://www.govdata.de/dl-de/by-2-0). It is based on a collection of data, including single- and multibeam echosounders and more recently also airborne LiDAR in coastal areas. The data has been collected over the past three decades and may thus be outdated in some places. However, as morphological dynamics in the German Baltic Sea are generally low, the dataset represents reality well in most areas. More information on the bathymetric surveys of the BSH can be found on their website here. 
+https://www.bsh.de/EN/TOPICS/Surveying_and_cartography/Hydrographic_surveys/hydrographic_surveys_node.html
+
+The data can be downloaded from the GeoSeaPortal: https://www.geoseaportal.de/atomfeeds/ELC_INSPIRE_de.xml
+
 
