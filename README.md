@@ -116,9 +116,10 @@ Google Colaboratory is a research tool for machine learning education and resear
 <br />  
 How to Share Google Colab Notebook on Github: https://www.youtube.com/watch?v=xNfiLvgG3iA
 <br />
+
 What is CryoCloud?: https://book.cryointhecloud.com/content/about.html<br />
 <p align="justify">
-"substantial barriers exist for individual users to make the transition from their local systems to the cloud to accomplish research goals: cloud cost opacity, infrastructure deployment complexity, and a general lack of community awareness and knowledge, among others. We can overcome these barriers by building upon existing cloud-workflow models and creating infrastructure that allows researchers to seamlessly move their workflows wherever they can do their best work.
+"Substantial barriers exist for individual users to make the transition from their local systems to the cloud to accomplish research goals: cloud cost opacity, infrastructure deployment complexity, and a general lack of community awareness and knowledge, among others. We can overcome these barriers by building upon existing cloud-workflow models and creating infrastructure that allows researchers to seamlessly move their workflows wherever they can do their best work.
 
 To optimize and expand this cloud-based model, CryoCloud is a NASA-funded project for a managed computing platform. The cloud environment is adapted to the current needs of researchers, provides cloud and community expert-led hackathon-style training workshops, and works towards development of new open-source tools for collaborative, open-science research. "
 </p>
