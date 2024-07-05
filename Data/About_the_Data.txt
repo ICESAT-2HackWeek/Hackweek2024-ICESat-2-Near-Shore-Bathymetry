@@ -1,5 +1,5 @@
 Here is the link to the ground reference bathymetry data and Sentinel-2 optical spectral data. There is also a Readme.txt file for your perusal.
-https://cloud.rz.uni-kiel.de/index.php/s/y7wzP6nrTy8xiDA?
+https://cloud.rz.uni-kiel.de/index.php/s/SyLsYkQtZPFFKJx
 
 We will use the ground reference for comparing our ICESat-2 based bathymetry retrieval as well as for traning & testing the machine learning model.
 
