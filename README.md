@@ -42,11 +42,14 @@ Here is a biosketch of the team that we would like to put together for this proj
 <!-- Hidden markdown text on GitHub: https://stackoverflow.com/questions/46734820/hidden-markdown-text-on-github  -->
 <!-- How to add empty spaces into MD markdown readme on GitHub?: https://stackoverflow.com/questions/44810511/how-to-add-empty-spaces-into-md-markdown-readme-on-github -->
 <!-- How to create a new folder on a repository?: https://github.com/orgs/community/discussions/69927 -->
-About ICESat-2: https://icesat-2.gsfc.nasa.gov/  
+About ICESat-2: https://icesat-2.gsfc.nasa.gov/<br />  
+
 ICESat-2 Algorithm Theoretical Basis Document for Global Geolocated Photons (ATL03):<br /> 
 https://icesat-2.gsfc.nasa.gov/sites/default/files/page_files/ICESat2_ATL03_ATBD_r006.pdf<br />
+
 ICESat-2 Photon Classification Using NASA Goddard Space Flight Center (GSFC) "Yet Another Photon Classifier" (YAPC) Algorithm: https://github.com/tsutterley/yapc<br />
 <br />
+
 YAPC Overview
 <p align="justify">
 https://yapc.readthedocs.io/en/latest/getting_started/Overview.html<br />
@@ -110,10 +113,13 @@ https://github.com/ICESAT-2HackWeek/ICESat-2-Hackweek-2023/tree/main/book/tutori
 ### Important to Know
 Github Forking (creating a copy of a repo on your own Github account) & Pull Request (requesting the owner of the original repo to accept the modifications that were made to the forked repo): https://www.earthdatascience.org/workshops/intro-version-control-git/about-forks/
 <br /> 
+
 How to Execute Jupyter Notebooks from GitHub: https://soshnikov.com/education/how-to-execute-notebooks-from-github/
 <br />
+
 Google Colaboratory is a research tool for machine learning education and research. It’s a Jupyter notebook environment that requires no setup to use: https://github.com/googlecolab/colabtools
 <br />  
+
 How to Share Google Colab Notebook on Github: https://www.youtube.com/watch?v=xNfiLvgG3iA
 <br />
 
