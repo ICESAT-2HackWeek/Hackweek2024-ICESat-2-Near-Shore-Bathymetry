@@ -84,6 +84,9 @@ $~$<br />
 ICESat-2 Bathymetry Overview: https://github.com/ICESat2-Bathymetry/Information
 $~$<br />
 
+The Ice, Cloud, and land Elevation Satellite-2 (ICESat-2): Science requirements, concept, and implementation: https://icesat-2.gsfc.nasa.gov/sites/default/files/multimedia/Markus_etal_RSE_2017.pdf
+$~$<br />
+
 SlideRule: Enabling rapid, scalable, open science for the NASA ICESat-2 mission and beyond: https://joss.theoj.org/papers/10.21105/joss.04982
 $~$<br />
 
