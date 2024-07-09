@@ -118,6 +118,8 @@ The ICESat-2 mission: A global geolocated photon product derived from the Advanc
 
 Evaluation of a Statistical Approach for Extracting Shallow Water Bathymetry Signals from ICESat-2 ATL03 Photon Data: https://www.mdpi.com/2072-4292/13/17/3548<br /> 
 
+Developing an ICESat-2 Based Lake Bathymetry Product for Improved Reservoir Management: A Pilot Study over Lake Mead: https://icesat-2.gsfc.nasa.gov/sites/default/files/general_content_files/ICESat-2%20Applications%20Small%20Posters-FINAL.pdf<br /> 
+
 
 
 ## Getting Started
