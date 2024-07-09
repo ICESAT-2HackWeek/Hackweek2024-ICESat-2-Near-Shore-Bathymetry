@@ -86,6 +86,7 @@ https://ieee-dataport.org/documents/purely-spaceborne-open-source-approach-regio
 * Satellite Derived Bathymetry (SDB) GUI: https://github.com/rifqiharrys/sdb_gui
 * Satellite Derived Bathymetry in the coast of Thailand with ICESat-2: https://github.com/lookmeebbear/sdb_thailand
 * Interactive Jupyter Book for wrangling, visualizing, and analyzing ICESat-2 observations: https://github.com/akpetty/icesat2-book
+* Python tools for obtaining and working with elevation data from NASA's ICESat-2 mission and various data products (ATL00-ATL21): https://github.com/tsutterley/read-ICESat-2   
 
 ### Literature
 The ICESat-2 Laser Altimetry Mission: https://ieeexplore.ieee.org/abstract/document/5461025 
