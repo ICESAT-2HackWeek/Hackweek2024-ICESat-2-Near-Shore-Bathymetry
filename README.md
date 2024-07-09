@@ -7,8 +7,9 @@ The ICESat-2 satellite uses an onboard laser system to send green laser light ph
 </p>
 
 <p align="justify">
-Photons are tiny little particles of light, far too small to see individually. All light is made of photons. Only a small percentage of laser light photons make it back to the satellite, which are extremely valuable to scientific research. Here is DIY ("ICESat-2 Bouncy Ball Photon Collection Activity") to develop a gut feeling about the photon scattering process: https://icesat-2.gsfc.nasa.gov/sites/default/files/funzone/ICESat-2_PhotonCountingActivity_BouncyBalls_FINAL%20508%20Compliant.pdf
-</p>
+Photons are tiny little particles of light, far too small to see individually. All light is made of photons. Only a small percentage of laser light photons make it back to the satellite, which are extremely valuable to scientific research. Here is DIY ("ICESat-2 Bouncy Ball Photon Collection Activity") to develop a gut feeling about the photon scattering process: 
+</p><br />
+https://icesat-2.gsfc.nasa.gov/sites/default/files/funzone/ICESat-2_PhotonCountingActivity_BouncyBalls_FINAL%20508%20Compliant.pdf
 
 ## Objective
 <!-- Justify text in github's readme: https://stackoverflow.com/questions/66777538/justify-text-in-githubs-readme -->
