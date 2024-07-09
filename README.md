@@ -77,8 +77,12 @@ https://ieee-dataport.org/documents/purely-spaceborne-open-source-approach-regio
 * For drafting a manuscript resulting from this work, I propose to collaboratively work on Overleaf. It is a collaborative cloud-based LaTeX editor used for writing, editing and publishing scientific documents: https://www.overleaf.com/
 
 #### Project Essentials
+* GitHub account: https://icesat-2hackweek.github.io/learning-resources/preliminary/github/
+* ICESat-2 Bathymetry Overview: https://github.com/ICESat2-Bathymetry/Information
+* Python tools to work with ICESat-2 and more: https://github.com/nholschuh/NDH_PythonTools
 * Searching for the closest ICESat-2 flyover for a given AOI: https://github.com/ICESAT-2HackWeek/EverythingAnyWhereAllAtOnce
-* 
+* Extracting sections of ICESat-2 tracklines, identifying bathymetry, and coastal morphology: https://github.com/ICESAT-2HackWeek/coastal_topobathy
+* Processing ICESat-2 ATL03 photon returns into refraction corrected bathymetry and collocate the data to reflectance values from Landsat 8 multispectral data (Processed in SeaDAS: https://seadas.gsfc.nasa.gov/) to interpolate depth in optically shallow water: https://github.com/ArcticCartographer/ICESat-2-Satellite-Derived-Bathymetry-using-Landsat-8-data
 
 ### Literature
 The ICESat-2 Laser Altimetry Mission: https://ieeexplore.ieee.org/abstract/document/5461025 
