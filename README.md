@@ -85,6 +85,7 @@ https://ieee-dataport.org/documents/purely-spaceborne-open-source-approach-regio
 * Processing ICESat-2 ATL03 photon returns into refraction corrected bathymetry and collocate the data to reflectance values from Landsat 8 multispectral data (Processed in SeaDAS: https://seadas.gsfc.nasa.gov/) to interpolate depth in optically shallow water: https://github.com/ArcticCartographer/ICESat-2-Satellite-Derived-Bathymetry-using-Landsat-8-data
 * Satellite Derived Bathymetry (SDB) GUI: https://github.com/rifqiharrys/sdb_gui
 * Satellite Derived Bathymetry in the coast of Thailand with ICESat-2: https://github.com/lookmeebbear/sdb_thailand
+* Interactive Jupyter Book for wrangling, visualizing, and analyzing ICESat-2 observations: https://github.com/akpetty/icesat2-book
 
 ### Literature
 The ICESat-2 Laser Altimetry Mission: https://ieeexplore.ieee.org/abstract/document/5461025 
