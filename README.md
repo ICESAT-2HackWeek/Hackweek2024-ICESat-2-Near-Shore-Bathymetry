@@ -45,7 +45,10 @@ Here is a biosketch of the team that we would like to put together for this proj
 <!-- How to create a new folder on a repository?: https://github.com/orgs/community/discussions/69927 -->
 About ICESat-2: https://icesat-2.gsfc.nasa.gov/<br />  
 
-ICESat-2 Algorithm Theoretical Basis Document for Global Geolocated Photons (ATL03):<br /> 
+ICESat-2 Algorithm Theoretical Basis Document for Global Geolocated Photon Data (ATL03):<br /> 
+<p align="justify">
+Precise latitude, longitude and elevation for every received photon, arranged by beam in the along-track direction. Photons classified by signal vs. background, as well as by surface type (land ice, sea ice, land, ocean), including all geophysical corrections. Segmented into several minute granules.
+</p>
 https://icesat-2.gsfc.nasa.gov/sites/default/files/page_files/ICESat2_ATL03_ATBD_r006.pdf<br />
 
 ICESat-2 Photon Classification Using NASA Goddard Space Flight Center (GSFC) "Yet Another Photon Classifier" (YAPC) Algorithm: https://github.com/tsutterley/yapc<br />
