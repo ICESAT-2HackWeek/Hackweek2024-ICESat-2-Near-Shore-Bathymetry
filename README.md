@@ -3,11 +3,12 @@
 
 ## About ICESat-2
 <p align="justify">
-The ICESat-2 satellite uses an onboard laser system to send green laser light photons to Earth’s surface. The satellite will emit visible laser pulses at 532 nm wavelength, which is a bright green color on the electromagnetic spectrum. This specific shade of bright green is what the filters on the satellite detector lets pass through in order to count the photons. Any other wavelength gets filtered out as background noise. The satellite is 310 miles (498 km) above the Earth’s surface. The ICESat-2 satellite precisely records the time-of-flight of individual photons as they travel from the instrument, reflect off Earth’s surface, and then are detected as they return to the instrument’s detector. These measurements allow
-scientists to calculate Earth’s surface elevation. By doing this, they are able to measure the height of everything on our planet, including sea ice, ice sheets, landforms, forest and tree canopies, ocean surface and clouds. 
+The ICESat-2 satellite uses an onboard laser system to send green laser light photons to Earth’s surface. The satellite emits visible laser pulses at 532 nm wavelength, which is a bright green color on the electromagnetic spectrum. This specific shade of bright green is what the filters on the satellite detector lets pass through in order to count the photons. Any other wavelength gets filtered out as background noise. The satellite is 310 miles (498 km) above the Earth’s surface. The ICESat-2 satellite precisely records the time-of-flight of individual photons as they travel from the instrument, reflect off Earth’s surface, and then are detected as they return to the instrument’s detector. These measurements allow scientists to calculate Earth’s surface elevation. By doing this, they are able to measure the height of everything on our planet, including sea ice, ice sheets, landforms, forest and tree canopies, ocean surface and clouds. 
 </p>
 
+<p align="justify">
 Photons are tiny little particles of light, far too small to see individually. All light is made of photons. Only a small percentage of laser light photons make it back to the satellite, which are extremely valuable to scientific research. Here is the "ICESat-2 Bouncy Ball Photon Collection Activity" to develop a gut feeling about the photon scattering process: https://icesat-2.gsfc.nasa.gov/sites/default/files/funzone/ICESat-2_PhotonCountingActivity_BouncyBalls_FINAL%20508%20Compliant.pdf
+</p>
 
 ## Objective
 <!-- Justify text in github's readme: https://stackoverflow.com/questions/66777538/justify-text-in-githubs-readme -->
