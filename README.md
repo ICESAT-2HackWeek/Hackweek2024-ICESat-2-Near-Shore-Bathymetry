@@ -68,10 +68,12 @@ A purely spaceborne open source approach for regional bathymetry mapping: Bahama
 https://ieee-dataport.org/documents/purely-spaceborne-open-source-approach-regional-bathymetry-mapping-bahamas-median-dem
 
 ### Workflow
-* We will be using Google Colab for executing the Python notebooks. We would like to integrate the GitHub repository with Google Colab.<br />  
-  https://stackoverflow.com/questions/67553747/how-do-i-link-a-github-repository-to-a-google-colab-notebook<br />   
+* We will be using Google Colab for executing the Python notebooks. We would like to integrate the GitHub repository with Google Colab. Another great cloud computing platform is the NASA-funded CryoCloud, which is a JupyterHub built for NASA Cryosphere communities in partnership with the International Interactive Computing Collaboration. You can read more about these cool tools below.<br />  
+  https://stackoverflow.com/questions/67553747/how-do-i-link-a-github-repository-to-a-google-colab-notebook<br />
+  https://book.cryointhecloud.com/intro.html<br />
+  https://2i2c.org/<br />
 * Results and other documentations can be stored on Google Doc/Drive. I'll host some data on the University of Kiel cloud.
-* For drafting a manuscript resulting from this work, we will work collaboratively on Overleaf: https://www.overleaf.com/
+* For drafting a manuscript resulting from this work, I propose to collaboratively work on Overleaf. It is a collaborative cloud-based LaTeX editor used for writing, editing and publishing scientific documents: https://www.overleaf.com/
 
 #### Project Essentials
 * Searching for the closest ICESat-2 flyover for a given AOI: https://github.com/ICESAT-2HackWeek/EverythingAnyWhereAllAtOnce
