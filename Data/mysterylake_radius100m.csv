@@ -1,15 +1,15 @@
-# Track of Mystery Lake
-# From May 1st 2020 until July 27th 2020.
-# Track uses data from two autonomous buoys (2020T61 and 2020T75), linearly interpolated in time.
-# Original data can be found here: https://doi.org/10.18739/A2KP7TS83
-# 
-# Developed and validated with images of ESA Copernicus Sentinel-2 MSI.
-# (8 acquisitions between June 14th and July 22nd.)
-# Mystery Lake's position is tracked relative to the two buoys.
-# 
-# Assume a cicle of 100m around the given WGS84 coordinates. This will contain Mystery Lake.
-# Inaccuracies due to the long position reporting intervals in the original data.
-# 
+# Track of Mystery Lake;;
+# From May 1st 2020 until July 27th 2020.;;
+# Track uses data from two autonomous buoys (2020T61 and 2020T75), linearly interpolated in time.;;
+# Original data can be found here: https://doi.org/10.18739/A2KP7TS83;;
+# ;;
+# Developed and validated with images of ESA Copernicus Sentinel-2 MSI.;;
+# (8 acquisitions between June 14th and July 22nd.);;
+# Mystery Lake's position is tracked relative to the two buoys.;;
+# ;;
+# Assume a cicle of 100m around the given WGS84 coordinates. This will contain Mystery Lake.;;
+# Inaccuracies due to the long position reporting intervals in the original data.;;
+# ;;
 # Time [UTC]; Latitude [deg N]; Longitude [deg E]
 20200501-000000; 83.90706; 17.578559
 20200501-001000; 83.906972; 17.579326
